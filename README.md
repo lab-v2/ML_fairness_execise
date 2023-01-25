@@ -17,7 +17,7 @@ The goal of this exercise is to show difference between classification metrics b
  ## Steps
  * Load all necessary packages
  * Get the dataset and split into train and test
- * You need to create two different Adverisial models one with debiasing other without debiasing
+ * You need to create two different Adverarial models one with debiasing other without debiasing
  * Use ClassificationMetric from metrics module to get all the classification metric for the predicted and original test data
  * Print classification accuracy, balanced classification accuracy, equal opportunity difference for both models to compare the difference
 
